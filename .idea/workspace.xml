@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5edcddb2-6780-4fa8-a07a-3e01949e501b" name="Default Changelist" comment="" />
+    <list default="true" id="5edcddb2-6780-4fa8-a07a-3e01949e501b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,15 +68,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,6 +92,7 @@
       <workItem from="1605832085407" duration="3438000" />
       <workItem from="1605955898075" duration="3251000" />
       <workItem from="1606019133712" duration="3082000" />
+      <workItem from="1606022793743" duration="1100000" />
     </task>
     <task id="LOCAL-00001" summary="mac">
       <created>1605959349428</created>
@@ -100,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605959349429</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mac 2">
+      <created>1606022836311</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606022836311</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +128,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mac" />
-    <option name="LAST_COMMIT_MESSAGE" value="mac" />
+    <MESSAGE value="mac 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="mac 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="278" key="#Notifications" timestamp="1606020371923">
